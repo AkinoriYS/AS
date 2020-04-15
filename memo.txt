@@ -1,1 +1,2 @@
-This is the test
+This is a test to chech the action of Git.
+All files changed by me will reflect to the remote repository.
